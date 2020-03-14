@@ -54,7 +54,7 @@ end
 
 def add_s(array)
   array.each_with_index.collect do |words, index| 
-index == 1 ? words : index[array.length] = "s" 
+index == 1 ? words : index [array.length] = "s" 
 end 
 array
 end
