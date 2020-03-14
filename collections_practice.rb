@@ -58,4 +58,3 @@ index == 1 ? array : array[array.length] = "s"
 end 
 array 
 end
-end
